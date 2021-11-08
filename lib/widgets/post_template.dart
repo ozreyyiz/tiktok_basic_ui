@@ -49,7 +49,7 @@ class PostTemplate extends StatelessWidget {
                     text: TextSpan(children:  [
                       TextSpan(text: videoDescription),
                       TextSpan(
-                          text: " #ankara #sincan",
+                          text: " #flutter #mobile",
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                           )),

@@ -7,11 +7,11 @@ class MyPost3 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return PostTemplate(
-      username: "hafız",
+      username: "reyyiz",
       numberOfLikes: "500M",
       numberOfComments: "1M",
       numberOfShares: "300K",
-      videoDescription: "borusana girmiş çalışıyo",
+      videoDescription: "arabada beş evde onbeş",
       userPost: Container(
         color: Colors.brown,
       ),
